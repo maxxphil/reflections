@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 You create the .git database that will begin tracking all the changes being made to your repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows you more control over you commits.
